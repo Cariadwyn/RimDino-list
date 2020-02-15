@@ -7799,7 +7799,19 @@
 		"price": -10,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawYams"
+	},
+	{
+		"abr": "bigstuffeddoll",
+		"price": 300,
+		"category": "Art",
+		"defname": "StuffedDollLarge"
+	},
+	{
+		"abr": "smallstuffeddoll",
+		"price": 150,
+		"category": "Art",
+		"defname": "StuffedDollSmall"
 	}
 	],
-	"total": 1300
+	"total": 1302
 }
